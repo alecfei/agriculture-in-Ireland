@@ -1,7 +1,7 @@
-# Cattle price analysis in Ireland and comparing to other countries 
+# Cattle price analysis in Ireland and comparison with other countries 
 
 ## Overview of agriculture
-
+Agriculture, as 
 
 
 ### Common Agriculture Policy (CAP)
