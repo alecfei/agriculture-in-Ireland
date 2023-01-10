@@ -1,4 +1,4 @@
-# Cattle price analysis in Ireland and comparison with other countries 
+# Beef price analysis in Ireland and a quick comparison with Spain
 
 ## Overview of agriculture
 Agriculture has played a key role in the history of human civilisation from thoudsands of years ago. It is the major source of food and income for majority of people around the world. 
@@ -21,10 +21,6 @@ Firstly proposed in 1962, and sixty years since its birth, the EU's CAP today su
 1. Consider the growing challenge in relation to **climate change**, **biodiversity loss** and **management of natural resources**;
 2. Target better and address the specific needs of farm sector and rural areas regarding **fairness**, e.g. the distribution of income support;
 3. Continue to embrace **innovation**.
-
-#### CAP regarding cattle sector in Ireland
-
-
 
 # Reference
 - https://agriculture.ec.europa.eu/common-agricultural-policy/cap-overview_en
